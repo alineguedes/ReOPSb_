@@ -5,7 +5,7 @@ O objetivo deste repositório é construir a estrutura de uma base de dados para
 [Apresentação do projeto](https://docs.google.com/presentation/d/10gCSyKyuyI7edW_lK7W_PFTPA9jDnYmLELnYqLbvqB0/edit#slide=id.g103d0cf6c02_0_15)
 
 Este repositório é um teste utilizando a ferramenta Github como centralizador de informações referentes aos dados de UX Research do laboratório bridge. 
-Consulte aqui a ideia inicial para utilizar a ferramenta
+[Consulte aqui a ideia inicial para utilizar a ferramenta](https://github.com/alineguedes/ReOPSb_/blob/main/Estrutura%20repositório.md)
 
 ## O que é um repositório de pesquisa: 
 Repositório de pesquisa nada mais é do que uma coleção compartilhada de dados e elementos que fornecem apoio ao processo de pesquisa.
