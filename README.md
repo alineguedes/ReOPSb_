@@ -2,6 +2,7 @@
 Estudo de estrutura para repositório de pesquisa partindo dos conceitos de ResearchOps
 O objetivo deste repositório é construir a estrutura de uma base de dados para UX Research, os elementos para construção tem como referência o estudo sobre como implementar práticas do ResearchOPS para o laboratório bridge. 
 
+[Apresentação do projeto](https://docs.google.com/presentation/d/10gCSyKyuyI7edW_lK7W_PFTPA9jDnYmLELnYqLbvqB0/edit#slide=id.g103d0cf6c02_0_15)
 
 Este repositório é um teste utilizando a ferramenta Github como centralizador de informações referentes aos dados de UX Research do laboratório bridge. 
 Consulte aqui a ideia inicial para utilizar a ferramenta
